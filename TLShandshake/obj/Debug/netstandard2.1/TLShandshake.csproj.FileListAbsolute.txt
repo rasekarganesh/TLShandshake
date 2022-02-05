@@ -1,0 +1,10 @@
+C:\Users\ganesh\source\repos\TLShandshake\TLShandshake\bin\Debug\netstandard2.1\TLShandshake.deps.json
+C:\Users\ganesh\source\repos\TLShandshake\TLShandshake\bin\Debug\netstandard2.1\TLShandshake.dll
+C:\Users\ganesh\source\repos\TLShandshake\TLShandshake\bin\Debug\netstandard2.1\TLShandshake.pdb
+C:\Users\ganesh\source\repos\TLShandshake\TLShandshake\obj\Debug\netstandard2.1\TLShandshake.csproj.AssemblyReference.cache
+C:\Users\ganesh\source\repos\TLShandshake\TLShandshake\obj\Debug\netstandard2.1\TLShandshake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganesh\source\repos\TLShandshake\TLShandshake\obj\Debug\netstandard2.1\TLShandshake.AssemblyInfoInputs.cache
+C:\Users\ganesh\source\repos\TLShandshake\TLShandshake\obj\Debug\netstandard2.1\TLShandshake.AssemblyInfo.cs
+C:\Users\ganesh\source\repos\TLShandshake\TLShandshake\obj\Debug\netstandard2.1\TLShandshake.csproj.CoreCompileInputs.cache
+C:\Users\ganesh\source\repos\TLShandshake\TLShandshake\obj\Debug\netstandard2.1\TLShandshake.dll
+C:\Users\ganesh\source\repos\TLShandshake\TLShandshake\obj\Debug\netstandard2.1\TLShandshake.pdb

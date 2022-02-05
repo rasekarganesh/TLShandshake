@@ -1,0 +1,17 @@
+C:\Users\ganesh\source\repos\TLShandshake\Test.TLShandshake\bin\Debug\netcoreapp3.1\Test.TLShandshake.exe
+C:\Users\ganesh\source\repos\TLShandshake\Test.TLShandshake\bin\Debug\netcoreapp3.1\Test.TLShandshake.deps.json
+C:\Users\ganesh\source\repos\TLShandshake\Test.TLShandshake\bin\Debug\netcoreapp3.1\Test.TLShandshake.runtimeconfig.json
+C:\Users\ganesh\source\repos\TLShandshake\Test.TLShandshake\bin\Debug\netcoreapp3.1\Test.TLShandshake.runtimeconfig.dev.json
+C:\Users\ganesh\source\repos\TLShandshake\Test.TLShandshake\bin\Debug\netcoreapp3.1\Test.TLShandshake.dll
+C:\Users\ganesh\source\repos\TLShandshake\Test.TLShandshake\bin\Debug\netcoreapp3.1\Test.TLShandshake.pdb
+C:\Users\ganesh\source\repos\TLShandshake\Test.TLShandshake\obj\Debug\netcoreapp3.1\Test.TLShandshake.csproj.AssemblyReference.cache
+C:\Users\ganesh\source\repos\TLShandshake\Test.TLShandshake\obj\Debug\netcoreapp3.1\Test.TLShandshake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganesh\source\repos\TLShandshake\Test.TLShandshake\obj\Debug\netcoreapp3.1\Test.TLShandshake.AssemblyInfoInputs.cache
+C:\Users\ganesh\source\repos\TLShandshake\Test.TLShandshake\obj\Debug\netcoreapp3.1\Test.TLShandshake.AssemblyInfo.cs
+C:\Users\ganesh\source\repos\TLShandshake\Test.TLShandshake\obj\Debug\netcoreapp3.1\Test.TLShandshake.csproj.CoreCompileInputs.cache
+C:\Users\ganesh\source\repos\TLShandshake\Test.TLShandshake\obj\Debug\netcoreapp3.1\Test.TLShandshake.dll
+C:\Users\ganesh\source\repos\TLShandshake\Test.TLShandshake\obj\Debug\netcoreapp3.1\Test.TLShandshake.pdb
+C:\Users\ganesh\source\repos\TLShandshake\Test.TLShandshake\obj\Debug\netcoreapp3.1\Test.TLShandshake.genruntimeconfig.cache
+C:\Users\ganesh\source\repos\TLShandshake\Test.TLShandshake\bin\Debug\netcoreapp3.1\TLShandshake.dll
+C:\Users\ganesh\source\repos\TLShandshake\Test.TLShandshake\bin\Debug\netcoreapp3.1\TLShandshake.pdb
+C:\Users\ganesh\source\repos\TLShandshake\Test.TLShandshake\obj\Debug\netcoreapp3.1\Test.TLShandshake.csproj.CopyComplete

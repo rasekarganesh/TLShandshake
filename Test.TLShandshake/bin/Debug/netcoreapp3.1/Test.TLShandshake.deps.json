@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Test.TLShandshake/1.0.0": {
+        "dependencies": {
+          "TLShandshake": "1.0.0"
+        },
+        "runtime": {
+          "Test.TLShandshake.dll": {}
+        }
+      },
+      "TLShandshake/1.0.0": {
+        "runtime": {
+          "TLShandshake.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test.TLShandshake/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TLShandshake/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
