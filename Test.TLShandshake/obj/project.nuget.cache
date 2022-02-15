@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AQfoOiJgCSngxl4jrRf0sl8qR/8bw7shBslogrMx0SLfV3w4FZ95pEqw0mcNmHxDlTDURAUmMaDGfeTVReI3UA==",
+  "dgSpecHash": "9WitBWMKPpOGFiOCA8Gp3pecohyaMPc/wjU/xW1DLp3i1JyuFrHPpA4LGbkf5PDh/eeCtOhQ6mu1Kr3xzw9Nug==",
   "success": true,
   "projectFilePath": "C:\\Users\\ganesh\\Documents\\GitHub\\TLShandshake\\Test.TLShandshake\\Test.TLShandshake.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ganesh\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
     "C:\\Users\\ganesh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
   "logs": []

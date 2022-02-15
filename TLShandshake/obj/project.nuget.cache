@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "atoBgXN8gfAdyi9FwwPD7KJsSoDB8kPSKCt25Y2G+zILib+uWxigZm8fjBLND8U1dGfmnKw4gmeAp/NRaeIMmw==",
+  "dgSpecHash": "r8rkC/vwogfp9Fvx4Ll/tl8I+BuFcEN9V88dVPa7e+ZmIzu6qXbu5pGByUkBJhTs5ertL+iOwlob81Er44yo9Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\ganesh\\Documents\\GitHub\\TLShandshake\\TLShandshake\\TLShandshake.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ganesh\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512"
+  ],
   "logs": []
 }

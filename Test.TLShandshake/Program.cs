@@ -7,6 +7,7 @@ namespace Test.TLShandshake
     {
         static void Main(string[] args)
         {
+
             CK cK = new CK();
             string[] cookies;
             cK.TryGetCookies(new Uri("https://www.google.com/"), out cookies);
